@@ -11,7 +11,7 @@ vraiment — pas d'abonnement de plateforme à payer tous les ans.
 | Site | Activité | |
 | --- | --- | --- |
 | [adelinecuny.com](https://adelinecuny.com) | Coach, médiatrice & énergéticienne — Bruxelles | [Étude de cas](https://garymartin.dev/projets/adeline-cuny/) |
-| [blandine-mazurier.com](https://blandine-mazurier.com) | Coach, formatrice & superviseure — Bruxelles | |
+| [blandine-mazurier.com](https://blandine-mazurier.com) | Coach, formatrice & superviseure — Bruxelles | [Étude de cas](https://garymartin.dev/projets/blandine-mazurier/) |
 
 ### Comment je travaille
 
